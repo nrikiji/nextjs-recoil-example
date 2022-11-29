@@ -1,0 +1,19 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 11,
+  "svelte.enable-ts-plugin": true,
+  "editor.insertSpaces": true,
+  "intelephense.diagnostics.undefinedClassConstants": false,
+  "intelephense.diagnostics.undefinedConstants": false,
+  "intelephense.diagnostics.undefinedFunctions": false,
+  "intelephense.diagnostics.undefinedMethods": false,
+  "intelephense.diagnostics.undefinedProperties": false,
+  "intelephense.diagnostics.undefinedTypes": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "prettier.printWidth": 128,
+  "rust-analyzer.workspace.symbol.search.limit": 128,
+  "editor.minimap.maxColumn": 128,
+  "window.openFoldersInNewWindow": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
